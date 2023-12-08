@@ -1,3 +1,5 @@
+## Mortgage Calculator
+
 This Java program is a simple mortage calculator. 
 
 How to Play
